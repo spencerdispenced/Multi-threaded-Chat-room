@@ -1,4 +1,4 @@
-//Spencer Thomason
+
 //chat_room_client.c
 
 #include <stdio.h>
