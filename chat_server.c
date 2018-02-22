@@ -1,4 +1,4 @@
-// Spencer Thomason
+
 // chat_room_sever.c
 
 
