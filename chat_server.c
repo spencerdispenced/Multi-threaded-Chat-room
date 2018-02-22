@@ -309,7 +309,7 @@ int remove_room(chat_user user, char *name, pthread_mutex_t *lock_unlock)
 
             strcpy(arr_chat_room[i].room_name, "xzzsdsdwdsfdf");
 
-            arr_chat_room[i] = arr_chat_room[total_rooms + 1]; // shifts rooms over
+            arr_chat_room[i] = arr_chat_room[total_rooms + 1]; 
             total_rooms--; 
             break;                  
          }
